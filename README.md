@@ -2,7 +2,7 @@
 
 ### Hi, My Name is Victor
 
-💻Computer Science Student at [San Diego Miramar College](https://sdmiramar.edu) In San Diego, California <br/>
+💻Computer Science major at [San Diego Miramar College](https://sdmiramar.edu) In San Diego, California, with intent to transfer <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=chartreuse-dark)](https://github.com/VictorDoesCoding/github-readme-stats)
 
 
