@@ -1,8 +1,8 @@
 <!-- Level 1: Simple bio and stats -->
 
-### Hi, My Name is Victor
+# Hi, My Name is Victor
 
-# 💫 About Me:
+## 💫 About Me:
 💻Computer Science major at [San Diego Miramar College](https://sdmiramar.edu) In San Diego, California, with intent to transfer <br/>
 
 
